@@ -1,4 +1,0 @@
-mkdir app
-cd app
-echo "Index page" > index.html
-echo "Sub page" > sub-page.html
