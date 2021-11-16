@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/RadoslawB/node-s3-management#readme",
   "devDependencies": {
-    "aws-sdk": "^2.646.0",
+    "aws-sdk": "^2.814.0",
     "dotenv": "^8.2.0"
   }
 }
